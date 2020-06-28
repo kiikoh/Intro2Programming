@@ -1,0 +1,16 @@
+5
+book
+5
+15.00
+dvd
+8
+20.00
+house
+1
+10000.00
+mousetrap
+5
+3.75
+bananas
+16
+0.99
